@@ -3,9 +3,10 @@
 ## 📌 Overview
 This is a **real-time chat application** built using the **MERN (MongoDB, Express, React, Node.js) stack**, **Socket.IO** for real-time communication, and **Material UI** for the frontend design. Users can create accounts, log in, and chat with other users in real time.
 
-## 🎯 Features
+## 🎯 Features:
 ✅ User authentication (JWT-based)
 ✅ User signup and login
+✅ Admin page
 ✅ Real-time messaging with Socket.IO
 ✅ One-on-one chat functionality
 ✅ Group chat functionality
