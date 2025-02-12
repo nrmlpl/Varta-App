@@ -90,7 +90,7 @@ npm start
 - `disconnect` - Handle user disconnection
 
 ## 📷 Screenshots
-![Chat App Screenshot](https://your-image-url.com/screenshot.png)
+[![Screenshot](https://github.com/nrmlpl/Varta-App/issues/1)]
 
 ## 🚀 Deployment
 ### **Backend (Server) Deployment**
